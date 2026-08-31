@@ -1,0 +1,12 @@
+HTTP/1.1 302 
+Server: 
+Date: Mon, 31 Aug 2026 07:55:46 GMT
+Cache-Control: no-cache,no-store,must-revalidate,post-check=0,pre-check=0
+Location: http://10.10.9.133:8080/
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000
+Connection: close
+

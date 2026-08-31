@@ -1,0 +1,13 @@
+https://student.citexams.in/project/index -> 404
+https://student.citexams.in/project/create -> 404
+https://student.citexams.in/project/upload -> 404
+https://student.citexams.in/attendance/view -> 404
+https://student.citexams.in/course-registration/history -> 302
+https://student.citexams.in/exam-application/history -> 302
+https://student.citexams.in/revaluation -> 404
+https://student.citexams.in/challenge-revaluation -> 404
+https://student.citexams.in/photocopy-request -> 404
+https://student.citexams.in/igrade -> 404
+https://student.citexams.in/notification -> 302
+https://student.citexams.in/feedback -> 404
+https://student.citexams.in/settings -> 404

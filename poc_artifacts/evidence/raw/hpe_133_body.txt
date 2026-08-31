@@ -1,0 +1,8 @@
+<HTML>
+<HEAD><TITLE>302 </TITLE></HEAD>
+<BODY BGCOLOR="#cc9999" TEXT="#000000" LINK="#2020ff" VLINK="#4040cc">
+<H4>302 </H4>
+
+<ADDRESS><A HREF="http://www.instant-on.hpe.com"></A></ADDRESS>
+</BODY>
+</HTML>

@@ -1,0 +1,5 @@
+[proxychains] config file found: /home/BlueDragon/.proxychains/proxychains.conf
+[proxychains] preloading /usr/lib/x86_64-linux-gnu/libproxychains.so.4
+[proxychains] DLL init: proxychains-ng 4.17
+[proxychains] Dynamic chain  ...  127.0.0.1:9050  ...  68.178.173.154:3306  ...  OK
+ERROR 2002 (HY000): Received error packet before completion of TLS handshake. The authenticity of the following error cannot be verified: 1130 - Host 'exit-03.tor.r0cket.net' is not allowed to connect to this MariaDB server

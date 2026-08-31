@@ -1,0 +1,12 @@
+HTTP/1.1 200 Ok
+Server: 
+Date: Mon, 31 Aug 2026 07:55:55 GMT
+Cache-Control: no-cache,no-store,must-revalidate,post-check=0,pre-check=0
+Content-Type: text/html; charset=utf-8
+Last-Modified: Thu, 02 Jul 2026 12:19:28 GMT
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000
+Connection: close
+

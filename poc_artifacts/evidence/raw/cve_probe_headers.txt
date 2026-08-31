@@ -1,0 +1,10 @@
+HTTP/1.1 401 Unauthorized
+Date: Mon, 31 Aug 2026 13:24:03 GMT
+Server: DNVRS-Webs
+Cache-Control: no-cache
+Content-Length: 138
+Content-Type: application/xml; charset="UTF-8"
+Connection: keep-alive
+Keep-Alive: timeout=60, max=99
+WWW-Authenticate: Digest realm="4f4f237c20be24cc32bca3be", domain="::", qop="auth", nonce="61d7de6628b5f4b0b0cb782dfdca2e86:1788182643278", opaque="", algorithm="MD5", stale="FALSE"
+
