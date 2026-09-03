@@ -10,3 +10,4 @@
 | **HIGH-003** | Publicly Reachable MySQL Service (Port 3306) | 🟠 High | 8.1 | ✅ Verified Live | Agent W / L | [HIGH-003.md](file:///home/BlueDragon/cit-redteam-project/findings/HIGH-003.md) |
 | **HIGH-004** | Internal Campus IoT & Hikvision Camera Exposure | 🟠 High | 8.6 | ✅ Verified Live | Agent W / L | [HIGH-004.md](file:///home/BlueDragon/cit-redteam-project/findings/HIGH-004.md) |
 | **HIGH-006** | Vulnerable Internal Jenkins CI/CD Instance | 🟠 High | 8.8 | ✅ Verified Artifacts | Agent W / L | [HIGH-006.md](file:///home/BlueDragon/cit-redteam-project/findings/HIGH-006.md) |
+| **SEC-252** | TP-Link CPE510 Gateway Security Audit & Hardening | 🟡 Medium | 5.3 | 🛡️ Blue Team Audited | Blue Team Lead | [tplink_cpe510_audit](file:///home/BlueDragon/cit-redteam-project/tplink_cpe510_audit/README.md) |
